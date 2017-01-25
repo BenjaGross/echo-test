@@ -1,0 +1,19 @@
+{
+  "name": "echo-test",
+  "version": "0.0.1",
+  "description": "Echo user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "training",
+    "test",
+    "demo"
+  ],
+  "author": "Ben <benja.j.gross@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
